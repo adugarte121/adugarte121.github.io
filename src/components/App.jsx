@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./Header";
-import Footer from "./Footer";
+import Footer from "./Footer/Footer";
 import 'bootstrap/dist/css/bootstrap.css';
 import MyCarousel from './MyCarousel'
 import CreateGroupCard from './CreateGroupCard'
